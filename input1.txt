@@ -1,0 +1,6 @@
+4
+India       83 73  8  0 1 5 2
+Pakistan    83 78  3  1 0 0 2
+England     82 77  5  5 0 0 0
+Australia   84 76  4  2 2 0 0
+
